@@ -1,0 +1,1 @@
+# SOC-Solving-of-Differential-Equations-via-Neural-Networks
